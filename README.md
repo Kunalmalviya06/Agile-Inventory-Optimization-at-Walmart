@@ -1,24 +1,24 @@
-
-
 <details>
-<summary>Click to toggle images</summary>
+<summary><strong>Click to Show/Hide Images</strong></summary>
 
-1. ![Image 1](https://drive.google.com/file/d/1HrpmgGj-CxNDpNJoiDpSRb8Saty2-z1S/view?usp=drive_link)
-2. ![Image 2](https://drive.google.com/file/d/1qwfQfPu2v4wMKsFrnTcE3Vy5nM01WjHD/view?usp=drive_link)
-3. ![Image 3](https://drive.google.com/file/d/1GFzXcPFnyiKfpdXNW6xwLsqG-KIBD6jY/view?usp=drive_link)
-4. ![Image 4](https://drive.google.com/file/d/1mEKIcGP9rzcxrTcjt-qWepiIJ_FDWvyS/view?usp=drive_link)
-5. ![Image 5](https://drive.google.com/file/d/1SdFzFhaLHikUP_91EsCHMbv7trH8witI/view?usp=drive_link)
-6. ![Image 6](https://drive.google.com/file/d/1QbwKGrpkgVjilcH14OkFmAX0NoBM7qz3/view?usp=drive_link)
-7. ![Image 7](https://drive.google.com/file/d/1xf0o1n9MJGXJsutCSOnxa0_7IZEJne5y/view?usp=drive_link)
-8. ![Image 8](https://drive.google.com/file/d/1aZrSnzo5hUjQlhCOtYT3TKQcKMgEzmcx/view?usp=drive_link)
-9. ![Image 9](https://drive.google.com/file/d/1cyUtHSQl1KZIuYmEunPZeaQbV9F8S7tC/view?usp=drive_link)
-10. ![Image 10](https://drive.google.com/file/d/1nRBPS5x2G7SmRQxN2WMZ_CzRpm0jrcsr/view?usp=drive_link)
-11. ![Image 11](https://drive.google.com/file/d/1F-1SHRxPkTbXIO6dpkGtMNBZmFJF49U1/view?usp=drive_link)
-12. ![Image 12](https://drive.google.com/file/d/1AnUbxCnouBRbeVqiuHQXZf9_HhC5cfSt/view?usp=drive_link)
-13. ![Image 13](https://drive.google.com/file/d/1Jqdw97O9b8MiSYUHgJYq9Gfh8GrwMzXb/view?usp=drive_link)
-14. ![Image 14](https://drive.google.com/file/d/1mG7P1l1Ow6kpHhEFn1pKRh3VMNDpr2Cs/view?usp=drive_link)
+![Image 1](https://drive.google.com/uc?export=view&id=1HrpmgGj-CxNDpNJoiDpSRb8Saty2-z1S)
+![Image 2](https://drive.google.com/uc?export=view&id=1qwfQfPu2v4wMKsFrnTcE3Vy5nM01WjHD)
+![Image 3](https://drive.google.com/uc?export=view&id=1GFzXcPFnyiKfpdXNW6xwLsqG-KIBD6jY)
+![Image 4](https://drive.google.com/uc?export=view&id=1mEKIcGP9rzcxrTcjt-qWepiIJ_FDWvyS)
+![Image 5](https://drive.google.com/uc?export=view&id=1SdFzFhaLHikUP_91EsCHMbv7trH8witI)
+![Image 6](https://drive.google.com/uc?export=view&id=1QbwKGrpkgVjilcH14OkFmAX0NoBM7qz3)
+![Image 7](https://drive.google.com/uc?export=view&id=1xf0o1n9MJGXJsutCSOnxa0_7IZEJne5y)
+![Image 8](https://drive.google.com/uc?export=view&id=1aZrSnzo5hUjQlhCOtYT3TKQcKMgEzmcx)
+![Image 9](https://drive.google.com/uc?export=view&id=1cyUtHSQl1KZIuYmEunPZeaQbV9F8S7tC)
+![Image 10](https://drive.google.com/uc?export=view&id=1nRBPS5x2G7SmRQxN2WMZ_CzRpm0jrcsr)
+![Image 11](https://drive.google.com/uc?export=view&id=1F-1SHRxPkTbXIO6dpkGtMNBZmFJF49U1)
+![Image 12](https://drive.google.com/uc?export=view&id=1AnUbxCnouBRbeVqiuHQXZf9_HhC5cfSt)
+![Image 13](https://drive.google.com/uc?export=view&id=1Jqdw97O9b8MiSYUHgJYq9Gfh8GrwMzXb)
+![Image 14](https://drive.google.com/uc?export=view&id=1mG7P1l1Ow6kpHhEFn1pKRh3VMNDpr2Cs)
 
 </details>
+
+
 
 # Real-Time Inventory Optimization at Walmart Using Agile Framework
 
